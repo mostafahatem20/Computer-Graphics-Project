@@ -1,0 +1,34 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 07.03.2019 14:11:35
+
+newmtl broun
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6784 0.5216 0.4353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\07\Пенек\bark.jpg
+	map_Kd D:\New folder 2\07\Пенек\bark.jpg
+	map_bump -bm 0.3000 D:\New folder 2\07\Пенек\bark.jpg
+	bump -bm 0.3000 D:\New folder 2\07\Пенек\bark.jpg
+
+newmtl yellow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.5725 0.2627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\log.jpg
+	map_Kd D:\New folder 2\log.jpg
+	map_bump -bm 0.3000 D:\New folder 2\log.jpg
+	bump -bm 0.3000 D:\New folder 2\log.jpg
